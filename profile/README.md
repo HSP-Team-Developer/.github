@@ -1,10 +1,10 @@
-# 🌟 Grupo TIC HSP 🌟
+# 🌟 HSP-Team-Developer 🌟
 
 ![Logo de la Organización](ruta/al/logo.png)
 
 ## 🌐 Acerca de Nosotros
 
-Somos una organización sin fines de lucro dedicada a [objetivo principal]. Nuestro propósito es [descripción de la misión y visión].
+Somos el area de TIC de HSP Coquimbo [objetivo principal]. Nuestro propósito es [descripción de la misión y visión].
 
 ## 🚀 Proyectos
 
